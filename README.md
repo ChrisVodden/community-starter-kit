@@ -1,12 +1,12 @@
 # welcome bot: A Probot App
-A GitHub App built with probot that celebrates new user activity within your repository.
+
 DESCRIPTION PLACEHOLDER
-A GitHub App built with probot that celebrates new user activity within your repository.
-## What it does
+
+## A GitHub App built with probot that celebrates new user activity within your repository.
 
 FEATURES PLACEHOLDER
 I have no idea what to put here tbh
-## Getting started
+## A GitHub App built with probot that celebrates new user activity within your repository.
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
